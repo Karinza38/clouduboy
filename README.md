@@ -1,4 +1,4 @@
-# Clouduboy
+ # Clouduboy
 
 ![Clouduboy Intro](/editor/res/clouduboy-intro.gif)
 
