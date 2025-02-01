@@ -28,7 +28,7 @@
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "formidable": "^1.0.17",
-    "fs-extra": "^0.26.5",
+    "fs-extra": "^0.30.0",
     "fs-promise": "^0.4.1",
     "nedb": "^1.7.4",
     "vhost": "^3.0.2"
